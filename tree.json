@@ -1,0 +1,125 @@
+{
+    "name": "Black Tree Theme",
+    "description": "Black Animated Tree White Theme",
+    "authors": [
+        {
+            "name": "Vivek",
+            "id": "0"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#000000"
+        ],
+        "HEADER_SECONDARY": [
+            "#333333"
+        ],
+        "TEXT_NORMAL": [
+            "#000000"
+        ],
+        "TEXT_MUTED": [
+            "#444444"
+        ],
+        "TEXT_LINK": [
+            "#0066cc"
+        ],
+        "TEXT_DANGER": [
+            "#dc2626"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#000000"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#000000"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#666666"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#00000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#00000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#00000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#00000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#00000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#ffffffd0"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#00000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#00000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#00000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#ffffff40"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ffffff40"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#00000000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#00000000"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#00000000"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#555555"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#333333"
+        ],
+        "CHANNEL_ICON": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#000000",
+        "PRIMARY_200": "#000000",
+        "PRIMARY_300": "#111111",
+        "PRIMARY_360": "#333333",
+        "PRIMARY_500": "#000000",
+        "PRIMARY_600": "#00000000",
+        "PRIMARY_630": "#00000000",
+        "PRIMARY_660": "#00000000",
+        "PRIMARY_700": "#00000000",
+        "PRIMARY_800": "#00000000",
+        "BRAND_260": "#000000",
+        "BRAND_360": "#000000",
+        "BRAND_500": "#222222",
+        "BRAND_560": "#000000",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#0066cc",
+        "YELLOW_300": "#d97706",
+        "ORANGE_345": "#ea580c",
+        "GREEN_345": "#16a34a",
+        "GREEN_360": "#16a34a",
+        "RED_560": "#dc2626",
+        "RED_400": "#dc2626"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1551856006152065068/1554351647612997713/ezgif-375db8ea64e40a9b.gif?ex=6abc9247&is=6abb40c7&hm=447dd77fcc63e225762e8ab9e484207aaf2b5233330646b8392d4448d99f15ec&",
+        "alpha": 1
+    }
+}
