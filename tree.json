@@ -1,6 +1,6 @@
 {
-    "name": "Black Tree Theme",
-    "description": "Black Animated Tree White Theme",
+    "name": "Black Tree theme",
+    "description": "black animated tree white theme",
     "authors": [
         {
             "name": "Vivek",
@@ -9,31 +9,31 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#333333"
+            "#ffffff"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#444444"
+            "#e5e5e5"
         ],
         "TEXT_LINK": [
-            "#0066cc"
+            "#ffffff"
         ],
         "TEXT_DANGER": [
-            "#dc2626"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#666666"
+            "#a3a3a3"
         ],
         "BACKGROUND_PRIMARY": [
             "#00000000"
@@ -48,10 +48,10 @@
             "#00000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#00000000"
+            "#ffffff40"
         ],
         "BACKGROUND_FLOATING": [
-            "#ffffffd0"
+            "#000000d0"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#00000000"
@@ -63,63 +63,64 @@
             "#00000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#ffffff40"
+            "#ffffff35"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#00000000"
+            "#ffffff30"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#ffffff40"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#00000000"
+            "#ffffff20"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#00000000"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#00000000"
+            "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#555555"
+            "#e5e5e5"
         ],
         "CHAT_BACKGROUND": [
             "#00000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#333333"
+            "#e5e5e5"
         ],
         "CHANNEL_ICON": [
-            "#000000"
+            "#ffffff"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#000000",
-        "PRIMARY_200": "#000000",
-        "PRIMARY_300": "#111111",
-        "PRIMARY_360": "#333333",
-        "PRIMARY_500": "#000000",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#e5e5e5",
+        "PRIMARY_500": "#ffffff",
         "PRIMARY_600": "#00000000",
         "PRIMARY_630": "#00000000",
         "PRIMARY_660": "#00000000",
         "PRIMARY_700": "#00000000",
         "PRIMARY_800": "#00000000",
-        "BRAND_260": "#000000",
-        "BRAND_360": "#000000",
-        "BRAND_500": "#222222",
-        "BRAND_560": "#000000",
+        "BRAND_260": "#ffffff",
+        "BRAND_360": "#ffffff",
+        "BRAND_500": "#ffffff",
+        "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#0066cc",
-        "YELLOW_300": "#d97706",
-        "ORANGE_345": "#ea580c",
-        "GREEN_345": "#16a34a",
-        "GREEN_360": "#16a34a",
-        "RED_560": "#dc2626",
-        "RED_400": "#dc2626"
+        "BLUE_345": "#ffffff",
+        "YELLOW_300": "#ffffff",
+        "ORANGE_345": "#ffffff",
+        "GREEN_345": "#ffffff",
+        "GREEN_360": "#ffffff",
+        "RED_560": "#ffffff",
+        "RED_400": "#ffffff"
     },
     "spec": 2,
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1551856006152065068/1554351647612997713/ezgif-375db8ea64e40a9b.gif?ex=6abc9247&is=6abb40c7&hm=447dd77fcc63e225762e8ab9e484207aaf2b5233330646b8392d4448d99f15ec&",
-        "alpha": 1
+        "alpha": 1,
+        "color": "#000000"
     }
 }
